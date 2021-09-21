@@ -1,0 +1,1 @@
+[{"model": "hotels.rate", "pk": 1, "fields": {"code": "hotel_1_ourense_normal", "name": "Normal", "room": 2}}, {"model": "hotels.rate", "pk": 2, "fields": {"code": "hotel_1_lugo_premium", "name": "Premium", "room": 1}}]
